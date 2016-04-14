@@ -21,6 +21,7 @@ knowledge, and gotten me started on Jekyll and Cloud 9, so far.
     <li>"git add ." I usually use "git add -A", which prompted a quest to 
     figure out the difference. And I found "git add -u", too...</li>
     <li>To start the server from C9: jekyll serve --host $IP --port $PORT --baseurl '' </li>
+    <li>To add a new post: rake post title=""</li>
     <li>My github profile page was here: <a href="laylar.github.io">laylar.github.io</a>, 
     but now it's here: <a href="www.layla.tech">layla.tech</a>!</li>
 </ul>
