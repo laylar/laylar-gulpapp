@@ -8,7 +8,7 @@ tags: [gulp.js, bower, webapp generator]
 {% include JB/setup %}
 
 <p>
-Here's <a href="www.layla.tech/gulp_app">the page</a> I built with gulp.js via a 
+Here's <a href="gulp_app">the page</a> I built with gulp.js via a 
 webapp generator during <a href="http://ric.mclaughlin.today/">Ric McLaughlin's</a>
 free course!
 </p>
